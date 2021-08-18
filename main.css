@@ -1,8 +1,8 @@
 .div {
 	width: 200px;
 	height: 200px;
-	background: black;
-	border: 8px solid rgb(0, 0, 0);
+	background-image: url(/images/depositphotos_56279335-stock-photo-fantastic-cosmo.jpg);
+	border: 4px solid rgb(0, 0, 0);
 	border-radius: 50%;
 }
 .li {
@@ -17,7 +17,7 @@
 	font-size: 40px;
 	font-style: italic;
 	margin: 0;
-	color: rgb(0, 255, 242);
+	color: rgb(0, 0, 0);
 }
 
 .heading-p {
@@ -28,5 +28,5 @@
 	margin-top: -10px;
 
 	padding: 0;
-	color: rgb(0, 217, 255);
+	color: rgb(0, 0, 0);
 }
