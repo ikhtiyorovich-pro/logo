@@ -1,13 +1,13 @@
 .div {
 	width: 200px;
 	height: 200px;
-	background: linear-gradient(rgb(0, 255, 255), black, black, rgb(0, 255, 255));
+	background: black;
 	border: 8px solid rgb(0, 0, 0);
 	border-radius: 50%;
 }
 .li {
 	list-style: none;
-	padding-top: 60px;
+	padding-top: 55px;
 	text-align: center;
 }
 
